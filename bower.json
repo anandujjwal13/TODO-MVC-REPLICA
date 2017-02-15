@@ -1,0 +1,17 @@
+{
+  "name": "Test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Anand <anandujjwal13@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
